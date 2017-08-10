@@ -1,0 +1,3 @@
+In my case , K-Means is performing better than C-Mean fuzzy clustering . As, It is distributing data according to desired cluster.
+
+From Observation it has been seen that any post talking about inside story of IITGn is not getting much share and comment like some visiting faculty is coming to IITGn , etc but anything related to interest talks from outside IITGn faculty or any award recognition is most shared and commented and liked posts. So, after observing these I propose if we can increase number of workshops which could be conducted by IITGn or any other eminent faculty or any professional should be increased and will be posted on facebook will get maximum reach and if we include people from outisde IITGn for workshop then we will get maximum likes .
